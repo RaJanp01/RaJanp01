@@ -1,16 +1,26 @@
-### Hi there 👋
+# Rajan Poudel
 
-<!--
-**RaJanp01/RaJanp01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📞 416-564-1496 | 📧 rajanpoudel.dev@gmail.com | [LinkedIn](https://www.linkedin.com/in/poudelrajan)
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Software developer experienced in .NET and web development frameworks. Proficient in C#, Java, C/C++, Python, SQL, JavaScript, and more. Adept at designing and implementing software solutions, collaborating within teams, and delivering projects that meet client specifications. Skilled in Agile methodologies, database design, and cloud technologies.
+
+## Technical Skills
+
+**Languages**: C#, Java, C/C++, Python, SQL, JavaScript, TypeScript, HTML, CSS, PHP  
+**Frameworks**: ASP.NET, Node.js, Springboot, AngularJS  
+**Tools**: RESTful APIs, Git, Docker, AWS, Azure  
+**Others**: Data Modeling, Agile (Scrum), Design Patterns
+
+## Projects
+
+- **Live Weather Application**: Real-time data display using C# and WPF.
+- **Blood Donation Application**: Database optimization and .NET integration.
+- **Bike Share Web Application**: Responsive web interface with Angular and TypeScript.
+- **Maze Path Finder**: Implemented DFS algorithm in C for maze solving.
+
+## Education
+
+**Sheridan College**  
+College Diploma in Computer Programming (Sept 2022 - Dec 2023)
